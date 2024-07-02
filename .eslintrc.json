@@ -1,10 +1,10 @@
 {
-    "extends": [
-      "airbnb-base"
-      ,"prettier"
-    ],
+  "extends": [
+    "airbnb-base",
+    "prettier"
+  ],
 
-    "rules": {
-      "quotes": [ "error" , "single"]
-    }
+  "rules": {
+    "quotes": [ "error" , "single"]
+  }
 }
