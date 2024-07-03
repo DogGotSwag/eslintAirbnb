@@ -6,5 +6,9 @@
 
   "rules": {
     "quotes": [ "error" , "single"]
+  },
+
+  "env": {
+    "browser": true
   }
 }
